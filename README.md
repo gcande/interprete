@@ -1,2 +1,2 @@
 # interprete
-interprete humilde
+interprete montado en servidor
